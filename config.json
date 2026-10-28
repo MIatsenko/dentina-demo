@@ -1,0 +1,52 @@
+{
+  "out": "/Users/mihail/delamain/projects/dentina-demo",
+  "name": "Dentina",
+  "kicker": "Maksima Gorkog 27 · Novi Sad",
+  "title": "Dentina — stomatološka ordinacija u Novom Sadu",
+  "description": "Stomatološka ordinacija Dentina, Maksima Gorkog 27, Novi Sad. Od 1991. Restaurativna stomatologija, parodontologija, oralna hirurgija i implantologija.",
+  "brand": "#25404f",
+  "brand2": "#162731",
+  "accent": "#c8a15c",
+  "logo": "",
+  "hero": "assets/img/Dentina-galerija-1.jpg",
+  "h1": "Ordinacija koja se prenosi s generacije na generaciju.",
+  "lead": "Od 1991. u Novom Sadu: restaurativna stomatologija i parodontologija, a danas i oralna hirurgija sa implantologijom — u novom prostoru i sa novom generacijom stomatologa.",
+  "phone": "064 4321 577",
+  "phone_link": "+381644321577",
+  "facts": [
+    ["1991.", "godina osnivanja"],
+    ["30+", "godina rada"],
+    ["10", "oblasti lečenja"],
+    ["13–19h", "radno vreme, pon–pet"]
+  ],
+  "services_title": "Šta lečimo",
+  "services_lead": "Od lečenja zuba i protetike do implantologije i oralne hirurgije — kod lekara koji se bavi tom oblašću.",
+  "typographic_services": true,
+  "services": [
+    {"title": "Bolesti zuba", "text": "Lečenje karijesa i kanala korena, sa kontrolom na rendgenu."},
+    {"title": "Stomatološka protetika", "text": "Krunice, mostovi i proteze, izrađene po otisku i probi."},
+    {"title": "Implantologija", "text": "Ugradnja implantata i planiranje na snimku pre intervencije."},
+    {"title": "All-on-4 / All-on-6", "text": "Nadoknada celog niza zuba na četiri ili šest implantata."},
+    {"title": "Oralna hirurgija", "text": "Hirurške intervencije u ordinaciji, kod oralnog hirurga."},
+    {"title": "Vađenje zuba", "text": "Vađenje zuba i korena, uz procenu pre intervencije."},
+    {"title": "Vađenje umnjaka", "text": "Uklanjanje umnjaka, uključujući slučajeve sa impakcijom."},
+    {"title": "Apikotomija", "text": "Hirurško lečenje promena na vrhu korena zuba."},
+    {"title": "Frenulektomija", "text": "Korekcija frenuluma usne ili jezika."},
+    {"title": "Parodontologija", "text": "Lečenje desni i potpornog tkiva zuba."}
+  ],
+  "team": [
+    {"img": "assets/img/Dr-Tamara-Duric.jpg", "name": "Dr Tamara Đurić", "role": "Doktor stomatologije"},
+    {"img": "assets/img/Dr-Bojana-Ilic.webp", "name": "Dr Bojana Ilić", "role": "Doktor stomatologije"}
+  ],
+  "gallery": [
+    {"img": "assets/img/Dentina-galerija-2.jpg", "alt": "Ordinacija"},
+    {"img": "assets/img/Dentina-galerija-3.jpg", "alt": "Radno mesto"},
+    {"img": "assets/img/Dentina-galerija-4.jpg", "alt": "Prostor ordinacije"},
+    {"img": "assets/img/O-nama-slika-2.jpg", "alt": "Detalj ordinacije"}
+  ],
+  "address": "Maksima Gorkog 27, 21000 Novi Sad",
+  "email": "ordinacijadentina@gmail.com",
+  "note": "Radno vreme: ponedeljak–petak, 13–19h. Termin se zakazuje telefonom.",
+  "box_text": "Nalazimo se u Maksima Gorkog 27. Za prvi dolazak dovoljan je telefonski poziv u radno vreme.",
+  "map_query": "Maksima%20Gorkog%2027%20Novi%20Sad"
+}
